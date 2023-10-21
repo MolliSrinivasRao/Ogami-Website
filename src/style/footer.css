@@ -1,0 +1,74 @@
+.footer-bg-img1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-image: url(https://ogami-react.vercel.app/assets/images/sections/banner/one/bg-1.png);
+    width: 40rem;
+
+}
+
+.footer-bg-img2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-image: url(https://ogami-react.vercel.app/assets/images/sections/banner/one/bg-2.png);
+    width: 40rem;
+}
+
+.footer-bg {
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer-btn{
+    width: 8rem;
+    height: 3rem;
+    border-radius: 30px;
+    background-color: orange;
+    color: aliceblue;
+}
+.bg-imgg{
+    height: 180px;
+    transition: transform 500ms linear;
+
+}
+:hover.bg-imgg:hover{
+    transform: scale(1.1);
+}
+.footer-details{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+.footer-icon{
+    font-size: 2rem;
+
+}
+.footer-bg-text{
+    border: 2px solid ;
+    width: 18rem;
+    height: 3rem;
+    background-color: orange;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer-join{
+    font-size: 2rem;
+}
+.footer-text{
+    width: 10rem;
+    height: 2.4rem;
+    border: none;
+    border-radius: 10px;
+}
+.footer-btn-text{
+    height: 3rem;
+    border: none;
+    background-color: orange;
+    color: antiquewhite;
+    cursor: pointer;
+}

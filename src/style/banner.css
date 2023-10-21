@@ -1,0 +1,54 @@
+.banner-bgm{
+    width: 100vw;
+    height: 30rem;
+   margin-top: 2rem;
+   background-image: url(https://ogami-react.vercel.app/assets/images/hero-slider/one/bg-1.png);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 5rem;
+  
+   
+}
+.banner-img{
+    width: 30rem;
+}
+h6{
+    font-size: 1.3rem;
+    color:  #88C74A;
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    color:  #88C74A;
+    font-size: 2rem;
+}
+.banner-btns{
+    border-radius: 30px;
+    height: 3rem;
+    width: 9rem;
+    color: rgb(255, 255, 255);
+    background-color:  #88C74A;
+    border: none;
+}
+.banner-detailss{
+    width: 28rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+  transition: transform 200ms;
+  
+}
+.banner-detailss:hover{
+    transform: scale(1.05);
+}
+.banner-featured{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.procat:hover{
+    color: #88C74A;
+    cursor: pointer;
+}

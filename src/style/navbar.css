@@ -1,0 +1,84 @@
+.lefhead{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 1rem;
+    margin-left: 3rem;
+ 
+}
+.header-top{
+    background-color: aqua;
+}
+.rihead{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 1rem;
+    margin-top: -3rem;
+    margin-right: 3rem;
+
+}
+.drop{
+    border: 0;
+    height: 2rem;
+
+}
+.icon{
+    width: 3rem;
+    height: 1.2rem;
+    cursor: pointer;
+   
+}
+.drops{
+    width: 8rem;
+    height: 2.5rem;
+    border: none;
+}
+.inp{
+    /* width: 11rem;
+    height: 2rem; */
+    border: none;
+}
+.searchh{
+    border: 1px solid;
+    width: 26rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+ 
+}
+.sear-btn{
+    background-color: #88C74A;
+    border: none;
+    width: 3rem;
+    height: 3.1rem;
+}
+.pa{
+    color:  #88C74A;
+}
+.ionn{
+    width: 2rem;
+    height: 1.5rem;
+    color: white;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+.drop2{
+    border: none;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-top: 0.8em;
+}
+.heart, .bag{
+    width: 2rem;
+    height: 1.5rem
+}
+option{
+    font-size: 1rem;
+}

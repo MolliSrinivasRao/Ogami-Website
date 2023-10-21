@@ -1,0 +1,17 @@
+.featurehead{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+}
+.ricon{
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 0.5rem;
+    margin-right: 0.6rem;
+    background-color: rgb(241, 241, 241);
+    border: none;
+    transition: all 0.5s;
+   
+}
+.ricon:hover{
+    background-color:  #88C74A;
+}

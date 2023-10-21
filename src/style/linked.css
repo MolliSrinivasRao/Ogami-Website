@@ -1,0 +1,67 @@
+.linked-img {
+    width: 3rem;
+    height: 2rem;
+}
+
+.linked-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    color: #B2B2B2;
+    font: 16px "CeraPro bold";
+
+}
+
+.linked-details {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1rem;
+
+}
+
+.bg-time-btn {
+    width: 8rem;
+    height: 2rem;
+    background-color: orange;
+    border-radius: 40px;
+    margin-top: 2rem;
+}
+
+.bg-time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background-image: url(https://ogami-react.vercel.app/_next/static/media/bg.3397ec36.png);
+}
+.bg-time-imgg{
+    margin-left: 10rem;
+}
+.bg-time-top{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+/* span{
+    padding: 1rem;
+    width: 3rem;
+    height: 2rem;
+    border: 1px solid white;
+    background-color: aqua;
+    border-radius: 10px;
+} */
+.bg-best-seller{
+    display: flex;
+    justify-content: space-between;
+}
+.bg-best-all{
+    display: flex;
+    gap: 1rem;
+}
+h4{
+    color: #B2B2B2;
+}
